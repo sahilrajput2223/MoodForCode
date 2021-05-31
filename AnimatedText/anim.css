@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+}
+
+p{
+    font-size: 10px;
+    line-height: 10px;
+    background: url("https://i.gifer.com/3nRA.gif") no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    font-weight: 900;
+    background-clip: text;
+    
+}
