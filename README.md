@@ -1,3 +1,1 @@
 # MoodForCode
-
-JAVASCRIPT
